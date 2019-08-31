@@ -1,0 +1,27 @@
+{
+  "name": "discord",
+  "version": "0.0.1",
+  "description": "Coded By SelimA'garZ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "SelimA'garZ",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "generate-password": "^1.4.2",
+    "jimp": "^0.6.4",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "node-gyp": "^5.0.3",
+    "opusscript": "0.0.7",
+    "rebuild": "^0.1.2",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^0.29.5"
+  }
+}
